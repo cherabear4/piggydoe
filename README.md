@@ -1,6 +1,6 @@
 ### Hey
 
-Im young-ohgees, [Youtube Link.](https://www.youtube.com/channel/UCB4DE1ebOwRV-Z1GBcf4l0A)
+Im piggydoe (cringe name - ive had it for like 5 years), [Youtube Link.](https://www.youtube.com/channel/UCB4DE1ebOwRV-Z1GBcf4l0A)
 
 ### Things about me
 
