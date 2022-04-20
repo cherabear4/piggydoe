@@ -12,3 +12,6 @@ never got very good but i understand it, after that i decided to learn python wh
 i started to learn javascript/svelte which im not very good at but its fun
 
 As of writing this im about to go make a client to try to learn more java so wish me luck.
+
+### Gists
+https://gist.github.com/piggydoe
