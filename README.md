@@ -11,7 +11,7 @@ about 4 months later i got into minecraft & (still kind of am-ish) so i decided 
 never got very good but i understand it, after that i decided to learn python which I enjoy and love.
 i started to learn javascript/svelte which im not very good at but its fun
 
-As of writing this im about to go make a client to try to learn more java so wish me luck.
+As of writing this im about to go make a client to try to learn more java so wish me luck. (that client was remainder and surprisingly turned out to be extremely successful)
 
 ### Gists
 https://gist.github.com/piggydoe
