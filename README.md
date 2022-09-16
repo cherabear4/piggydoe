@@ -1,6 +1,6 @@
 ### [Hey](https://piggydoe.tk)
 
-Im piggydoe (cringe name - ive had it for like 5 years), [Youtube Link.](https://www.youtube.com/channel/UCB4DE1ebOwRV-Z1GBcf4l0A)
+Im geesy/ihackedpiggy/liltonka, [Youtube Link.](https://www.youtube.com/channel/UCB4DE1ebOwRV-Z1GBcf4l0A)
 
 ### Things about me
 
@@ -15,3 +15,9 @@ As of writing this im about to go make a client to try to learn more java so wis
 
 ### Gists
 https://gist.github.com/piggydoe
+
+# Currently
+
+Languages im fluent in: Java, Javascript (React, Nodejs, ElectronJS), Python, ClientScript :troll:
+
+Learning: 
