@@ -2,6 +2,6 @@
 
 ReactJS God - I still have to look up how to use grid in css
 
-#NEW DISCORD
+# NEW DISCORD
 
 lil Tönkå#6630
